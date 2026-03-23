@@ -1,4 +1,4 @@
 This is line 1
 This is line 2 - modified in both main and feature1
 This is line 3
-adding a new line to understand git fetch
+adding a new line to understand git stash
