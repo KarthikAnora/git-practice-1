@@ -1,3 +1,1 @@
-This is line 1
-This is line 2 - modified in both main and feature1
-This is line 3
+adding something to understand cherry-pick
